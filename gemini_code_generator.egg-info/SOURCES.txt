@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+gemini_code_generator/gemini_code_generator.py
+gemini_code_generator.egg-info/PKG-INFO
+gemini_code_generator.egg-info/SOURCES.txt
+gemini_code_generator.egg-info/dependency_links.txt
+gemini_code_generator.egg-info/entry_points.txt
+gemini_code_generator.egg-info/requires.txt
+gemini_code_generator.egg-info/top_level.txt

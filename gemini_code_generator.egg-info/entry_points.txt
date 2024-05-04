@@ -1,0 +1,2 @@
+[console_scripts]
+gemini_code_generator = gemini_code_generator.gemini_code_generator:main
