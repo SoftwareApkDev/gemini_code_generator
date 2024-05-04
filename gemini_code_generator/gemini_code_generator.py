@@ -131,7 +131,7 @@ def main() -> int:
         convo = model.start_chat(history=[
         ])
         prompt: str = """
-Write a """ + str(language) + """ program with the following specifications:
+Write a """ + str(language) + """ program with the following specifications (please include the code only in your response):
 
 """
         specifications: list = []  # initial value
