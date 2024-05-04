@@ -1,7 +1,7 @@
 # gemini_code_generator
 
 **Gemini Code Generator** is an application used to generate code of any programming language based on the given
-specifications.
+specifications, w
 
 # Source Code
 
