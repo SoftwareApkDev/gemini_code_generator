@@ -1,0 +1,3 @@
+setuptools~=69.5.1
+python-dotenv~=1.0.1
+mpmath~=1.3.0
